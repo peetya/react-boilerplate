@@ -4,11 +4,11 @@ exports[`matches snapshot 1`] = `
 <div
   className="app-header"
 >
-  <div
-    className="container"
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light"
   >
-    <nav
-      className="navbar navbar-expand-lg navbar-light bg-light"
+    <div
+      className="container"
     >
       <a
         className="navbar-brand"
@@ -51,7 +51,7 @@ exports[`matches snapshot 1`] = `
           </li>
         </ul>
       </div>
-    </nav>
-  </div>
+    </div>
+  </nav>
 </div>
 `;
