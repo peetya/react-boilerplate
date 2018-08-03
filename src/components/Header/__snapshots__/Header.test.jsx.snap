@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="app-header"
+>
+  <div
+    className="container"
+  >
+    <nav
+      className="navbar navbar-expand-lg navbar-light bg-light"
+    >
+      <a
+        className="navbar-brand"
+        href="/"
+        onClick={[Function]}
+      >
+        My App
+      </a>
+      <div
+        className="collapse navbar-collapse"
+        id="navbarSupportedContent"
+      >
+        <ul
+          className="navbar-nav mr-auto"
+        >
+          <li
+            className="nav-item"
+          >
+            <a
+              aria-current="page"
+              className="nav-link active"
+              href="/"
+              onClick={[Function]}
+              style={Object {}}
+            >
+              Home
+            </a>
+          </li>
+          <li
+            className="nav-item"
+          >
+            <a
+              aria-current={null}
+              className="nav-link"
+              href="/test"
+              onClick={[Function]}
+            >
+              Test
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+`;
